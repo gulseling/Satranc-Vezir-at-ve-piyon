@@ -1,0 +1,57 @@
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Form1.resources
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\GÜLSELİN\Source\Repos\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Form1.resources
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\Gülselin\Desktop\WinFormsApp3\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.exe
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.deps.json
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.runtimeconfig.dev.json
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\bin\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\bin\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Form1.resources
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.dll
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\obj\Debug\net5.0-windows\ref\WinFormsApp3.dll
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.pdb
+C:\Users\Gülselin\Desktop\Yeni klasör (7)\Satranç\WinFormsApp3\obj\Debug\net5.0-windows\WinFormsApp3.genruntimeconfig.cache

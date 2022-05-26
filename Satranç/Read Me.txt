@@ -1,0 +1,2 @@
+﻿İlgili programı Visual Studio ile açıp 36. satırdaki txt dosyasını 
+değiştirerek test edebilirsiniz.
